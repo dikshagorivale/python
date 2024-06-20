@@ -1,0 +1,12 @@
+Total Feedback Entries: 8
+Average Rating: 2.88
+
+Feedbacks:
+Diksha: 5.0 - Great service!
+Kavya: 4.0 - Good, but could improve.
+Shravi: 3.0 - need some improvements
+Mansi: 3.0 - Average experience.
+Mahendra: 2.0 - Not satisfied.
+Anvesha: 1.0 - Very bad.
+Lavyansh: 3.0 - Average experience.
+Twisha: 2.0 - Not satisfied.
