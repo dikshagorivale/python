@@ -1,0 +1,3 @@
+sprite,2
+chi. lollypop,5
+chi. soup,2

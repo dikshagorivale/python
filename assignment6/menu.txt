@@ -1,0 +1,5 @@
+chi. lollypop,200.0,40
+chi. crispy,180.0,30
+chi. triple rice,220.0,30
+chi. soup,170.0,25
+sprite,40.0,40
